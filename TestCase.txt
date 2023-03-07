@@ -1,0 +1,51 @@
+	1. Title of the application.
+		1. Open Browser
+		2. Open the Application
+		3. Assert
+		4. Close Browser
+
+	2. Functionality of the Search.
+		1. Open Browser
+		2. Open the Application
+		3. Enter the search Data
+		4. Click the search Icon or Press Enter
+		5. Assert
+		6. Select product
+		7. Assert
+		8. Close Browser
+
+
+		Src/Main/Java
+
+					Org.Browser.Com			Browser.java
+					                         Open Browser, Open Application, Closing Browser
+
+					Org.Pages.Com				Page1.java
+												Enter Search data, Click or Enter
+												Page2.java
+												Selecting the Product
+												Page3.java
+												Verification
+
+					Org.Excel.Com				Excel.java
+
+					Org.ScreenShot.Com       Screenshot.java
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
